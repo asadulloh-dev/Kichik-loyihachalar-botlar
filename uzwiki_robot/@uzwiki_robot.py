@@ -2,7 +2,7 @@
 # Loyiha muallifi: Rahimov Asadbek
 # Ustoz: Anvar Narzullayev
 # Manba: mohirdev.uz
-# Bot: uzwiki_robot
+# Telegram Bot: @uzwiki_robot
 
 import logging
 import wikipedia
