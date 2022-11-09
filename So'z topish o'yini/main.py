@@ -1,8 +1,6 @@
 # 27/12/2021
 # Loyiha muallifi: Rahimov Asadbek
-# Ustoz: Anvar Narzullayev
-# Manba: mohirdev.uz
-# 26-dars. So'z topish o'yini
+# So'z topish o'yini
 
 from uzwords import words
 from random import choice
