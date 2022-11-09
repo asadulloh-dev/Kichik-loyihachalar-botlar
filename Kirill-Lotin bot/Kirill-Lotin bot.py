@@ -1,8 +1,6 @@
 # 27/12/2021
 # Loyiha muallifi: Rahimov Asadbek
-# Ustoz: Anvar Narzullayev
-# Manba: mohirdev.uz
-# 27-dars. Kirill-Lotin bot
+# Kirill-Lotin bot
 
 from transliterate import to_latin, to_cyrillic
 import telebot
