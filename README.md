@@ -1,1 +1,1 @@
-# Kichik loyihalar, o'yinlar, botlar
+# Kichik loyihachalar, o'yinlar, botlar
